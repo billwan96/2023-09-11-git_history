@@ -15,4 +15,3 @@
 
 -  `restore --staged <FILE>`: unstages <FILE> from the staging area
 
--- here are something i dont want
