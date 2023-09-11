@@ -1,4 +1,4 @@
-# 2023-09-11-git_history
+# DSCI521: Lecture 3
 
 - `add <FILENAMES>`: adding the <FILENAMES> to the staging area
 - `commit - <MESSAGE>`: commit with a message everything in the staging area
@@ -15,3 +15,4 @@
 
 -  `restore --staged <FILE>`: unstages <FILE> from the staging area
 
+- `revert <SHA1>`: undo the changes in the commit specified in `<SHA1>`
