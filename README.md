@@ -1,4 +1,4 @@
-# 2023-09-11: Git History
+# 2023-09-11: Git History + Conflicts
 
 Stuff from MDS DSCI521 Lecture 3
 
@@ -17,3 +17,6 @@ Stuff from MDS DSCI521 Lecture 3
 
 -  `restore --staged <FILE>`: unstages <FILE> from the staging area
 
+- `revert <SHA1>`: undo the changes in the commit specified in `<SHA1>`
+
+- to fix conflicts you need to manually edit the file
