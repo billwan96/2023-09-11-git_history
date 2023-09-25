@@ -20,3 +20,5 @@ Stuff from MDS DSCI521 Lecture 3
 - `revert <SHA1>`: undo the changes in the commit specified in `<SHA1>`
 
 - to fix conflicts you need to manually edit the file
+
+- haha
